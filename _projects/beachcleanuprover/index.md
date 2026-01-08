@@ -7,5 +7,5 @@ skills:
 - 3D Printing
 - Gears & Sprockets
 - Multi-Motor System
-main-image: /project.webp 
+main-image: /bcr_cad
 ---
