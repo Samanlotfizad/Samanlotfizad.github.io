@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: 6 Axis Robotic Arm
+description: 
+    Assembled and integrated a 3D-printed ARCTOS robotic arm platform, focusing on mechanical assembly, hardware integration, and end-effector development. Designed and fabricated custom end effectors to support competitive tasks including cup stacking, maximum-weight lifting, and automated bottle opening and pouring. Collaborated within a multidisciplinary team while iterating mechanical designs through prototyping and testing.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Solidworks
+  - Servos & mechanical linkages
+  - 3D Printing
+  - OrcaSlicer
+  - Arduino
 
 main-image: /project2.jpg
 ---
