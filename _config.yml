@@ -51,6 +51,7 @@ skills:
     - Arduino
     - R
   - category: Software
+    tools:
     - Excel
     - Solidworks
     - Orcaslicer
