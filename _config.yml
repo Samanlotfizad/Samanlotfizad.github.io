@@ -15,7 +15,8 @@ title: Saman's Portfolio # This is what shows up in the tab of the browser
 name: Saman Lotfizad
 headline: Mechanical Engineering - UC Irvine
 description: >- # dont remove this line. this will ignore all new lines until the next section
-Passionate about mechanical design and robotics with experience in SolidWorks modeling, simulation, and prototyping. I enjoy designing robotic components, selecting materials, and turning concepts into functional mechanical systems.
+Passionate about mechanical design and robotics with experience in SolidWorks modeling, simulation, and prototyping.
+I enjoy designing robotic components, selecting materials, and turning concepts into functional mechanical systems.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: /assets/images/profile-image/avatar.jpg
