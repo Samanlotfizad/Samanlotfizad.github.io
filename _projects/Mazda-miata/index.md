@@ -1,1 +1,8 @@
-
+---
+layout: post
+title: Mazda Miata CAD Model
+description:  Developed a full vehicle CAD model of a Mazda Miata using image-based spline references and advanced surface modeling in SolidWorks. Designed and assembled wheels, tires, and axle components separately, integrating a functional drivetrain with motor-driven axle-to-wheel motion.
+skills: 
+- Solidworks
+main-image: /project.webp 
+---
