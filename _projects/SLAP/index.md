@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SLAP
+title: Self-Leveling Anteater Project (SLAP)
 description:   
   I am responsible for mechanical fabrication and prototyping for SLAP, including
   3D printing PLA components for the initial prototype and assisting with full system
