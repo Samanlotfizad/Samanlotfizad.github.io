@@ -5,7 +5,5 @@ description:  Leading the mechanical design of a 3D-printed, four-wheel-drive be
 skills: 
 - Solidworks
 - 3D Printing
-- Gears & Sprockets
-- Multi-Motor System
 main-image: /bcr_cad.png
 ---
