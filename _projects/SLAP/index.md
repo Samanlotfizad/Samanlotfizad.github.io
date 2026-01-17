@@ -12,5 +12,5 @@ skills:
   - 3D Printing
   - Aluminum components (5052, 6061)
 
-main-image: /project2.jpg
+main-image: /SLAP.png
 ---
