@@ -46,17 +46,15 @@ skills:
   - category: Programming
     tools:
     - Python
-    - Matlab
+    - MATLAB
     - Arduino
     - R
   - category: Software
     tools:
     - Excel
-    - Solidworks
-    - Orcaslicer
-    - Bambulab
-    - Labview
-    - Coolterm
+    - SolidWorks
+    - Orca Slicer
+    - Bambu Studio
   - category: Fabrication
     tools:
     - 3D Printing
