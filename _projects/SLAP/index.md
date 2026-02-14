@@ -11,6 +11,8 @@ skills:
   - Solidworks
   - 3D Printing
   - Aluminum components (5052, 6061)
-{% include image-gallery.html images="team.jpg, prototype.jpg" height="400" %}
+
 main-image: /SLAP.png
 ---
+
+{% include image-gallery.html images="team.jpg, prototype.jpg" height="400" %}
